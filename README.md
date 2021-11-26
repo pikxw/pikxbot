@@ -8,15 +8,18 @@ Prefix = ;
 | Command  | Aliases | Description
 | --- | --- | --- |
 | % | | Sends a random precentage between 0% and 100% |
+| 7tv | | Searchs a 7tv emote |
 | 7tvemotes | | Gets all 7TV emotes from a channel |
 | 7tvuser | | Shows 7tv profile from the given user |
 | 8ball | | Ask the magic 8ball |
+| bttv | | Searchs a bttv emote | 
 | chatterino | c | Sends link to Chatterino2 and Chatterino7 |
 | chatters | offlineviewers, ov | Shows the number of offline viewers in the chat | 
 | color | | Chat color of the given user |
 | commands | | Sends link to this github |
 | dungeon | | Shows the time until your next dungeon entry (Huwobot) |
 | racc | | Sends a link to emotes.raccatta.cc of an user |
+| ffz | | Searchs a ffz emote |
 | fill | | Repeats the given phrase up to 500 characters |
 | followage | fa | Sends the followage of an user on a channel |
 | followers | | Sends followcount of the channel |
