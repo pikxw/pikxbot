@@ -19,7 +19,6 @@ Prefix = ;
 | color | | Chat color of the given user |
 | commands | | Sends link to this github |
 | dungeon | | Shows the time until your next dungeon entry (Huwobot) |
-| racc | | Sends a link to emotes.raccatta.cc of an user |
 | ffz | | Searchs a ffz emote |
 | fill | | Repeats the given phrase up to 500 characters |
 | followage | fa | Sends the followage of an user on a channel |
@@ -34,6 +33,7 @@ Prefix = ;
 | ping | | pong! | 
 | pingme | me | Pings you |
 | pyramid | | Creates a pyramid in chat |
+| racc | | Sends a link to emotes.raccatta.cc of an user |
 | raccoon | | Image and random fact of a raccoon |
 | randomcolor | rc | Random hexadecimal color |
 | randomgachi | rg, gachi | Random gachi song, quote or copypasta |
