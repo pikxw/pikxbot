@@ -13,7 +13,7 @@ Prefix = ;
 | 7tvuser | | Shows 7tv profile from the given user |
 | 8ball | | Ask the magic 8ball |
 | bttv | | Searchs a bttv emote | 
-| chatterino | c | Sends link to Chatterino2 and Chatterino7 |
+| chatterino | c | Sends link to chatterino2/7 or wiki |
 | chatters | offlineviewers, ov | Shows the number of offline viewers in the chat | 
 | color | | Chat color of the given user |
 | commands | | Sends link to this github |
