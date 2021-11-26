@@ -27,7 +27,7 @@ Prefix = ;
 | help | | Gives you the description of a command and its usage |
 | math | | Does math |
 | modcheck | mc | Checks if a user is mod in a channel |
-| momjoke | yourmom, deinemutter | Sends a random mom joke |
+| momjoke | | Sends a random mom joke |
 | npm | | Sends a link with your npm search |
 | pfp | | Sends the specified user pfp | 	
 | ping | | pong! | 
