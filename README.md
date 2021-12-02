@@ -43,7 +43,7 @@ Prefix = ;
 | streaminfo | | Gives basic information about a stream |
 | subage | sa | Sends the subage of an user on a channel |
 | test | | Test Successful |
-| timer | | Starts a timer (min) |
+| timer | remindme | Starts a timer (min) |
 | tuck | | Tucks someone into bed |
 | twitter | | Latest post/retweet of specified twitter account |
 | uid | | Sends the id of an user	|
