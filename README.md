@@ -11,7 +11,6 @@ Prefix = ;
 | 7tv | | Searchs a 7tv emote |
 | 7tvemotes | | Gets all 7TV emotes from a channel |
 | 7tvuser | | Shows 7tv profile from the given user |
-| afk | gn, brb, food | Flags you as AFK |
 | 8ball | | Ask the magic 8ball |
 | bttv | | Searchs a bttv emote | 
 | chatterino | c | Sends link to chatterino2/7 or wiki |
