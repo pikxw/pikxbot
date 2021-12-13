@@ -17,7 +17,7 @@ Prefix = ;
 | chatterino | c | Sends link to chatterino2/7 or wiki | ;chatterino [2/7/wiki] |
 | chatters | offlineviewers, ov | Shows the number of offline viewers in the chat | ;chatters [user] | 
 | color | | Chat color of the given user | ;color [user] |
-| commands | | Sends link to this github | ![xd](https://cdn.frankerfacez.com/emote/341610/1) |
+| commands | | Sends link to this github | ;commands |
 | dungeon | | Shows the time until your next dungeon entry (Huwobot) | ;dungeon |
 | ffz | | Searchs a ffz emote | ;ffz [emote] |
 | ffzemotes | | Gets all FFZ emotes from a channel | ;ffzemotes [user] |
