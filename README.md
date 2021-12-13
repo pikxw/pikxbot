@@ -5,48 +5,48 @@
 # Commands
 Prefix = ;
 
-| Command  | Aliases | Description
-| --- | --- | --- |
-| % | | Sends a random precentage between 0% and 100% |
-| 7tv | | Searchs a 7tv emote |
-| 7tvemotes | | Gets all 7TV emotes from a channel |
-| 7tvuser | | Shows 7tv profile from the given user |
-| 8ball | | Ask the magic 8ball |
-| bttv | | Searchs a bttv emote | 
-| bttvemotes | | Gets all BTTV emotes from a channel |
-| chatterino | c | Sends link to chatterino2/7 or wiki |
-| chatters | offlineviewers, ov | Shows the number of offline viewers in the chat | 
-| color | | Chat color of the given user |
-| commands | | Sends link to this github |
-| dungeon | | Shows the time until your next dungeon entry (Huwobot) |
-| ffz | | Searchs a ffz emote |
-| ffzemotes | | Gets all FFZ emotes from a channel |
-| fill | | Repeats the given phrase up to 500 characters |
-| followage | fa | Sends the followage of an user on a channel |
-| followers | | Sends followcount of the channel |
-| google | | Sends a link with your google search |
-| help | | Gives you the description of a command and its usage |
-| logs | | Sends the link to JustLog site |
-| math | | Does math |
-| modcheck | mc | Checks if a user is mod in a channel |
-| momjoke | | Sends a random mom joke |
-| pfp | | Sends the specified user pfp | 	
-| ping | | pong! | 
-| pingme | me | Pings you |
-| pyramid | | Creates a pyramid in chat |
-| racc | | Sends a link to emotes.raccatta.cc of an user |
-| raccoon | | Image and random fact of a raccoon |
-| randomcolor | rc | Random hexadecimal color |
-| randomgachi | rg, gachi | Random gachi song, quote or copypasta |
-| randomline | rl |  Sends a RandomLine of a logged channel on justlogs |
-| spam | | Spam the given phrase |
-| streaminfo | si | Gives basic information about a stream |
-| subage | sa | Sends the subage of an user on a channel |
-| test | | Test Successful |
-| timer | remindme | Starts a timer (min) |
-| tuck | | Tucks someone into bed |
-| twitter | | Latest post/retweet of specified twitter account |
-| uid | | Sends the id of an user	|
-| user | whois | Gives basic information about a given user |
-| vipcheck | vc | Checks if a user is vip in a channel |
-| youtube | yt | Sends a link with your youtube search | 
+| Command  | Aliases | Description | Usage
+| --- | --- | --- | --- | 
+| % | | Sends a random precentage between 0% and 100% | ;% |
+| 7tv | | Searchs a 7tv emote | ;7tv [emote] | 
+| 7tvemotes | | Gets all 7TV emotes from a channel | ;7tvemotes [user] |
+| 7tvuser | | Shows 7tv profile from the given user | ;7tvuser [user] |
+| 8ball | | Ask the magic 8ball | ;8ball [question] 
+| bttv | | Searchs a bttv emote | ;bttv [emote] | 
+| bttvemotes | | Gets all BTTV emotes from a channel | ;bttvemotes [user] |
+| chatterino | c | Sends link to chatterino2/7 or wiki | ;chatterino [2/7/wiki] |
+| chatters | offlineviewers, ov | Shows the number of offline viewers in the chat | ;chatters [user] | 
+| color | | Chat color of the given user | ;color [user] |
+| commands | | Sends link to this github | ![xd](https://cdn.frankerfacez.com/emote/341610/1) |
+| dungeon | | Shows the time until your next dungeon entry (Huwobot) | ;dungeon |
+| ffz | | Searchs a ffz emote | ;ffz [emote] |
+| ffzemotes | | Gets all FFZ emotes from a channel | ;ffzemotes [user] |
+| fill | | Repeats the given phrase up to 500 characters | ;fill [param] |
+| followage | fa | Sends the followage of an user on a channel | ;fa [user] [channel] |
+| followers | | Sends followcount of the channel | ;followes [user] |
+| google | | Sends a link with your google search | ;google [phrase] |
+| help | | Gives you the description of a command and its usage | ;help [command] |
+| logs | | Sends the link to JustLog site | ;logs [user] [channel] |
+| math | | Does math | ;math [question] |
+| modcheck | mc | Checks if a user is mod in a channel | ;modcheck [user] [channel] |
+| momjoke | | Sends a random mom joke | ;momjoke | 
+| pfp | | Sends the specified user pfp | 	;pfp [user] |
+| ping | | pong! | ;ping |
+| pingme | me | Pings you | ;pingme |
+| pyramid | | Creates a pyramid in chat | ;pyramid [number] [phrase] |
+| racc | | Sends a link to emotes.raccatta.cc of an user | ;racc [channel] |
+| raccoon | | Image and random fact of a raccoon | ;raccoon |
+| randomcolor | rc | Random hexadecimal color | ;randomcolor | 
+| randomgachi | rg, gachi | Random gachi song, quote or copypasta | ;gachi [quote/cvpaste/song] |
+| randomline | rl |  Sends a RandomLine of a logged channel on justlogs | ;rl [user] [channel] |
+| spam | | Spam the given phrase | ;spam [number] [phrase] |
+| streaminfo | si | Gives basic information about a stream | ;streaminfo [channel] |
+| subage | sa | Sends the subage of an user on a channel | ;subage [user] [channel] |
+| test | | Test Successful | ;test |
+| timer | remindme | Starts a timer (min) | ;timer [minutes] [phrase] |
+| tuck | | Tucks someone into bed | ;tuck [user] [phrase] |
+| twitter | | Latest post/retweet of specified twitter account | ;twitter [user] |
+| uid | | Sends the id of an user	| ;uid [user] |
+| user | whois | Gives basic information about a given user | ;user [user] |
+| vipcheck | vc | Checks if a user is vip in a channel | ;vipcheck [user] [channel] |
+| youtube | yt | Sends a link with your youtube search | ;yt [phrase] |
