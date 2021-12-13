@@ -13,21 +13,23 @@ Prefix = ;
 | 7tvuser | | Shows 7tv profile from the given user |
 | 8ball | | Ask the magic 8ball |
 | bttv | | Searchs a bttv emote | 
+| bttvemotes | | Gets all BTTV emotes from a channel |
 | chatterino | c | Sends link to chatterino2/7 or wiki |
 | chatters | offlineviewers, ov | Shows the number of offline viewers in the chat | 
 | color | | Chat color of the given user |
 | commands | | Sends link to this github |
 | dungeon | | Shows the time until your next dungeon entry (Huwobot) |
 | ffz | | Searchs a ffz emote |
+| ffzemotes | | Gets all FFZ emotes from a channel |
 | fill | | Repeats the given phrase up to 500 characters |
 | followage | fa | Sends the followage of an user on a channel |
 | followers | | Sends followcount of the channel |
 | google | | Sends a link with your google search |
 | help | | Gives you the description of a command and its usage |
+| logs | | Sends the link to JustLog site |
 | math | | Does math |
 | modcheck | mc | Checks if a user is mod in a channel |
 | momjoke | | Sends a random mom joke |
-| npm | | Sends a link with your npm search |
 | pfp | | Sends the specified user pfp | 	
 | ping | | pong! | 
 | pingme | me | Pings you |
@@ -37,9 +39,8 @@ Prefix = ;
 | randomcolor | rc | Random hexadecimal color |
 | randomgachi | rg, gachi | Random gachi song, quote or copypasta |
 | randomline | rl |  Sends a RandomLine of a logged channel on justlogs |
-| setcolor | sc | Change the bot chatcolor |
 | spam | | Spam the given phrase |
-| streaminfo | | Gives basic information about a stream |
+| streaminfo | si | Gives basic information about a stream |
 | subage | sa | Sends the subage of an user on a channel |
 | test | | Test Successful |
 | timer | remindme | Starts a timer (min) |
